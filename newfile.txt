@@ -3,3 +3,7 @@ age 21,
 I like dancing.
 
 changes been made by github :)
+remote repo to local repo use git pull 
+
+
+
