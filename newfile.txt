@@ -5,5 +5,8 @@ I like dancing.
 changes been made by github :)
 remote repo to local repo use git pull 
 
-
+Artificial Intelligence Allows Machines to Work Efficiently and Solve Problems. 
+See How AI Can Learn and Analyse Vast Amounts of Data in the Blink of an Eye at HPE.
+ HPC Solutions. As-a-Service. Edge to Core. Enterprise AI. 
+Types: Scale Up or Scale Out, Power Innovation.
 
