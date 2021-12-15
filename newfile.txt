@@ -1,1 +1,4 @@
-My name is Almas 
+My name is Almas . 
+age 21, 
+I like dancing.
+
